@@ -1,0 +1,366 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+.container{
+    width: 1270px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+ header{
+    padding: 15px 0px;
+    box-shadow: 0px 0.1px 0px black;
+    
+}
+
+.header_logo{
+    width: 125px;
+    height: 18px;
+    padding: 0px 80px;
+}
+
+
+.header_nav{
+   margin-left: 410px;
+
+
+}
+
+.header_nav a{
+    text-decoration: none;
+    padding: 0px 18px;
+    font-size: 15px;
+    color: gray;
+}
+
+.header_nav button{
+    border: none;
+    background-color: none;
+}
+
+.header_nav a:hover{
+    color: dodgerblue;
+}
+
+.header_nav img{
+    width: 30px;
+}    
+
+.title{
+    padding: 30px 0px;
+
+}
+
+.title_one{
+   margin-left: 25%;
+   margin-right: 25%;
+}
+
+
+.title_img img{
+    margin-left: 20%;
+    width: 60%;
+}
+
+.title_two h2{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(85, 82, 82);
+}
+
+.title_two p{
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 25px;
+}
+
+.title_three p{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    padding-bottom: 25px;
+}
+
+.title_three a{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 4px;
+    background-color: dodgerblue;
+}
+
+.title_three a:hover{
+    background-color: black;
+}
+
+.support_one{
+    padding: 20px 0px;
+}
+
+.support_box_one{
+    width: 40%;
+    margin: 40px;
+    
+   
+}
+
+.support_box_one img{
+    width: 80%;
+    padding: 50px;
+    height: auto;
+}
+
+.box{
+    font-size: 20px;
+}
+
+.support_box_two{
+    width: 40%;
+    margin-left: 5%;
+    
+    
+}
+
+.support_box_two img{
+    width: 90%;
+}
+
+.support_box_two h2{
+    padding-top: 50px;
+    font-size: 35px;
+    color: rgb(85, 82, 82);
+}
+
+.support_box_two p{
+    
+    font-size: 18px;
+}
+
+.inbox_one{
+    width: 60%;
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 50px;
+}
+
+.support_two{
+    padding: 20px 0px;
+  
+}
+
+.support h1{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(82, 79, 79);
+}
+
+.support p{
+    text-align: center;
+    margin-left: 33%;
+    margin-right: 33%;
+    font-size: 18px;
+}
+
+.support img{
+   
+    width: 80%;
+    
+    margin-left: 120px;
+    
+}
+
+
+.support a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.support a:hover{
+    color: black;
+}
+
+.support_three{
+    padding: 40px 0px;
+}
+
+.support_three_box_one{
+    padding: 30px;
+    
+    width: 40%;
+    margin-left: 70px;
+}
+
+.support_three_box_one h1{
+    font-size: 35px;
+    color: rgb(83, 81, 81);
+    
+}
+
+.support_three_box_one p{
+    
+    font-size: 18px;
+   
+    
+}
+
+.support_three_box_one a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.support_three_box_one a:hover{
+    color: black;
+}
+
+.support_three_box_two {
+    width: 20%;
+    border: solid;
+    padding-right: 5px;
+   
+}
+
+
+
+.abc h1{
+    font-size: 35px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.abc p{
+    text-align: center;
+    margin: 0px 35px;
+    font-size: 18px;
+}
+
+.support_four{
+    padding: 20px 0px;
+}
+
+.support_box_four_one{
+    width: 40%;
+    margin: 10px 35px;
+    
+   
+}
+
+.support_box_four_one img{
+    width: 80%;
+    padding: 50px;
+    height: auto;
+}
+
+.support_box_four_two{
+    width: 40%;
+    margin-left: 5%;
+    
+    
+}
+
+.support_box_four_two h2{
+    margin-top: 100px;
+    font-size: 30px;
+    color: rgb(92, 86, 86);
+}
+
+.support_box_four_two p{
+    
+    font-size: 16px;
+    
+}
+
+
+.support_box_four_two a{
+    text-decoration: none;
+    font-size: 16px;
+    color: dodgerblue;
+    
+}
+
+.support_box_four_two a:hover{
+    color: black;
+}
+
+.end{
+    background-color: rgba(241, 250, 250, 0.973);
+}
+
+
+
+.box1{
+        padding: 50px;
+}
+
+
+.box1 img{
+    width: 125px;
+    height: 18px;
+    padding: 0px 80px;   
+}
+
+.box1 a{
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(78, 76, 76);
+}
+
+.box1 a:hover{
+    color: dodgerblue;
+}
+
+.link{
+    text-align: center;
+    padding: 5px;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+.end_para{
+    background-color: rgba(241, 250, 250, 0.973);
+}
+
+.end_par{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 8%;
+
+}
+
+.end_par p{
+    color: rgb(165, 160, 160);
+    font-size: 11px;
+    padding: 5px;
+}
+
+.end_par a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.end_par a:hover{
+    color: black;
+}
+
+.end_links{
+    background-color: rgba(241, 250, 250, 0.973);
+}
+
+.end_link{
+    margin-left: 20%;
+}
+
+.end_link a{
+    text-decoration: none;
+    color: rgb(165, 160, 160);
+    padding: 5px;
+
+}
+
+.end_link a:hover{
+    color: dodgerblue;
+}
